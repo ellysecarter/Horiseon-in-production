@@ -19,5 +19,3 @@ I updated the title of the webpage to be more descriptive.
 
 
 
-
-
