@@ -14,8 +14,15 @@ I added descriptions to all photos.
 
 I updated the title of the webpage to be more descriptive. 
 
+The site can be found below. 
+https://ellysecarter.github.io/horiseon-in-production/
 
 
+md![screenshot](/assets/images/Screenshot1.png)
+
+md![screenshot](/assets/images/screenshot2.png)
+
+md![screenshot](/assets/images/screenshot3.png)
 
 
 
