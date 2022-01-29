@@ -1,6 +1,6 @@
-# horiseon-in-production
+# Horiseon in Production
 
-##  In this repository we were to refract an existing code to make the page more accessible and to make the code neater. 
+##  Refract an existing code to make it neater, condensed, and easy to read. 
 
 I added titles to the sections and changed multiple <div> tags to more specific semantic elements. 
 
@@ -18,11 +18,12 @@ The site can be found below.
 https://ellysecarter.github.io/horiseon-in-production/
 
 
-md![screenshot](/assets/images/Screenshot1.png)
+![screenshot](/assets/images/Screenshot1.png)
 
-md![screenshot](/assets/images/screenshot2.png)
+![screenshot](/assets/images/screenshot2.png)
 
-md![screenshot](/assets/images/screenshot3.png)
+![screenshot](/assets/images/screenshot3.png)
+
 
 
 
